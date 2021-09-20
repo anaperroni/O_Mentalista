@@ -1,0 +1,62 @@
+body {
+    min-height: 600px;
+    background-image: url(https://i.pinimg.com/originals/8e/53/48/8e534863674732a51118f7556b15932b.gif);
+    background-color: #000000;
+    background-size: 200vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .titulo {
+    color:aliceblue;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 150px;
+    margin-bottom: 20px;
+    font-size: 100px;
+  }
+  
+  .subtitulo {
+    color:aliceblue;
+    margin-top: 16px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  
+  .Linkedin-Logo {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  input {
+    margin: 4px;
+    padding: 6px;
+    border-radius: 5px;
+    margin-top: 3px;
+  }
+  
+  button {
+    margin-bottom: 0px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  
+  .resultado {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 25px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+ 
