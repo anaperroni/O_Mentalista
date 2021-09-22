@@ -3,4 +3,4 @@ Jogo da adivinhação, onde você pode tentar adivinhar o número secreto  do n�
 
 
 Você pode tentar através o site CodePen: 
-https://codepen.io/pen/?template=vYZdXOG
+https://codepen.io/anaperroni/full/vYZdXOG
